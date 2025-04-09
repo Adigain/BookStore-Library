@@ -45,3 +45,16 @@ A full-stack e-commerce web application built using the **MERN stack** (MongoDB,
 ---
 
 ## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](frontend/public/SSHomepage.png)
+
+### 🛒 Cart Page
+![Cart Page](frontend/public/SSCart.png)
+
+### 🛠️ Admin Page
+![Admin Page](frontend/public/SSAdmin.png)
+
+### 💳 Checkout Page
+![Checkout Page](frontend/public/SSCheckout.png)
+
